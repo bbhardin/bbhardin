@@ -2,7 +2,7 @@
 
 I'm a PhD Student in Oxford Computer Science working on explainable methods for autonomous driving.
 
-🌐 Website: (bbhardin.github.io)[https://bbhardin.github.io)
+🌐 Website: [bbhardin.github.io](https://bbhardin.github.io)
 
 <!--
 **bbhardin/bbhardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
