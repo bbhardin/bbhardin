@@ -1,6 +1,6 @@
 ## Hi, I'm Ben 👋
 
-I'm a PhD Student in Oxford Computer Science working on explainable methods for autonomous driving.
+I'm a DPhil (PhD) Student in Oxford Computer Science working on explainable methods for autonomous driving.
 
 🌐 Website: [bbhardin.github.io](https://bbhardin.github.io)
 
